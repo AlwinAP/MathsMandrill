@@ -1,8 +1,6 @@
 """
-@Project: Math Mandrill
-@Version: 1.2
+@Project: Maths Mandrill
 @Author: Alwin Prabu
-@School: Watford UTC
 """
 #Dependencies:
 #   users.txt  - user database
