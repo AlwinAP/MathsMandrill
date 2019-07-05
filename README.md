@@ -6,9 +6,8 @@ The school teachers were pleased with the outcome of the visit and have asked my
 
 Description
 -------------
-This program should run a game where the user has to answer a series of simple random arithmetic questions (add, subtract, multiply and divide) using whole numbers between 1 and 12. Subtraction and division should not produce negative answers. Each game should have 10 questions and the programme should keep track of the score.
+This program should run a game where the user has to answer a series of simple random arithmetic questions (add, subtract, multiply and divide) using whole numbers between 1 and 12. Subtraction and division should not produce negative answers. Each game should have 10 questions and the programme should keep track of the score. Three levels should be provided,
 
-Three levels should be provided,
 level 0 has no time limit
 
 level 1 has a 20 second time limit per question
