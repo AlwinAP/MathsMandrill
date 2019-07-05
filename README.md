@@ -2,7 +2,7 @@
 Educational Game using Python
 ------------------------------
 I recently visited a local school and delivered a presentation on python games. 
-The school were pleased with the outcome of the visit and have asked my company to create a program to engage, and develop maths skills for younger children junior programmer for an educational charity which supports young children in developing Maths skills. 
+The school teachers were pleased with the outcome of the visit and have asked my company to create a program to engage, and develop maths skills for younger children junior programmer for an educational charity which supports young children in developing Maths skills. 
 
 Description
 -------------
